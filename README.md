@@ -63,7 +63,7 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 
 Developed by : KEERTHIVASAN S
 
-Register Number : 23002436
+Register Number : 212223220046
 
 Code :
 
